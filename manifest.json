@@ -1,0 +1,27 @@
+{
+    "short_name": "Stalya ",
+    "name": "Stalya Tracker",
+    "theme_color": "#2B2B2B",
+    "background_color": "#000000",
+    "display": "fullscreen",
+    "Scope": "/",
+    "orientation": "portrait",
+    "icons": [
+      {
+        "src": "https://cdn.discordapp.com/attachments/951919811737292824/1124658549088333894/stalya_48.png",
+        "type": "image/png",
+        "sizes": "48x48"
+      },
+      {
+        "src": "https://cdn.discordapp.com/attachments/951919811737292824/1124658549411299471/stalya_96.png",
+        "type": "image/png",
+        "sizes": "96x96"
+      },
+      {
+        "src": "https://cdn.discordapp.com/attachments/951919811737292824/1124658549683933256/stalya_192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      }
+    ],
+    "start_url": "/"
+  }
